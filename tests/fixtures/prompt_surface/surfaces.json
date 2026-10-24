@@ -1,8 +1,8 @@
 {
   "cli-code.claude": {
     "prompt_tokens": {
-      "context": 249,
-      "stable": 1935,
+      "context": 134,
+      "stable": 1829,
       "volatile": 1813
     },
     "tool_tokens": 11490,
@@ -35,7 +35,7 @@
   "cli.claude": {
     "prompt_tokens": {
       "context": 0,
-      "stable": 1445,
+      "stable": 1225,
       "volatile": 1813
     },
     "tool_tokens": 11490,
@@ -68,7 +68,7 @@
   "cli.gemini": {
     "prompt_tokens": {
       "context": 0,
-      "stable": 1866,
+      "stable": 1646,
       "volatile": 1811
     },
     "tool_tokens": 11490,
@@ -101,7 +101,7 @@
   "cli.gpt": {
     "prompt_tokens": {
       "context": 0,
-      "stable": 2640,
+      "stable": 2420,
       "volatile": 1809
     },
     "tool_tokens": 11645,
@@ -134,7 +134,7 @@
   "cli.hermes": {
     "prompt_tokens": {
       "context": 0,
-      "stable": 1445,
+      "stable": 1225,
       "volatile": 1813
     },
     "tool_tokens": 11490,
@@ -167,7 +167,7 @@
   "cron.claude": {
     "prompt_tokens": {
       "context": 0,
-      "stable": 1317,
+      "stable": 1211,
       "volatile": 1813
     },
     "tool_tokens": 11490,
@@ -200,7 +200,7 @@
   "desktop.claude": {
     "prompt_tokens": {
       "context": 0,
-      "stable": 1579,
+      "stable": 1473,
       "volatile": 1814
     },
     "tool_tokens": 12155,
@@ -234,7 +234,7 @@
   "discord.claude": {
     "prompt_tokens": {
       "context": 0,
-      "stable": 1349,
+      "stable": 1244,
       "volatile": 1814
     },
     "tool_tokens": 11490,
@@ -267,7 +267,7 @@
   "telegram.claude": {
     "prompt_tokens": {
       "context": 0,
-      "stable": 1382,
+      "stable": 1276,
       "volatile": 1814
     },
     "tool_tokens": 11490,
